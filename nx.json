@@ -39,7 +39,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/SE113-e2e/**/*"]
+      "exclude": ["apps/SE113-e2e/**/*", "apps/scheduler-e2e/**/*"]
     }
   ]
 }
